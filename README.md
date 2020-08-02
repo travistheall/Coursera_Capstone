@@ -6,7 +6,7 @@
 It is also the 9th largest port in the United States. Workers come and go from the Mississippi River with goods to ship and hungry bellies every day. </p>
 <p>All these residents and workers need a place to eat. Students get tired of dining halls and don't have kitchens in their dorms. Shipping workers are excited to have a real meal after coming from overseas. Regular working-class adults sometimes forget or are too lazy to cook for themselves. Louisiana has a very diverse food culture and almost all styles of food have a place in Baton Rouge. </p>
 <h3>Target Audience</h3>
-<p> Restaurants are a great investment, if planned properly. Unfortunately, almost half of all restaurants fail during the first year of opening. My target audience would be anyone who is looking to start in the restaurant business within Baton Rouge area. >. There are many factors to consider such as location, service style, and the actual food being sold. </p>
+<p> Restaurants are a great investment, if planned properly. Unfortunately, almost half of all restaurants fail during the first year of opening. My target audience would be anyone who is looking to start in the restaurant business within Baton Rouge area. There are many factors to consider such as location, service style, and the actual food being sold. </p>
 </p>It is essential to understand the variety of restaurants in each neighborhood. Identifying a market gap within a specific neighborhood could lead to that restaurant being successful. Versus opening a restaurant in a neighborhood that doesn’t need your food and failing. </p>
 <p>**For those unfamiliar with Louisiana, a parish is akin to a county in other states.</p>
 <h3>Data</h3>
