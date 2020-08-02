@@ -24,10 +24,10 @@ these factors using location data.</p>
 Then I will use the Louisiana Commercial Real Estate Database (2) for rent and pricing data in the correct commercial zones (Commercial, Light Commercial,
 and Heavy Commercial) in accordance to Chapter 8 Zoning Laws of East Baton Rouge Parish (3).</p>
 
-<p>OpenBr has a housing dataset (4) that can be used to get an understanding of how much property costs in each area to get an understanding of the
-demographics of each neighborhood. I will use Baton Rouge crime data (5) to address any serious concerns about the location of the restaurant.</p>
+<p>OpenBr has a housing dataset (4) and zillow (5) that can be used to get an understanding of how much property costs in each area to get an understanding of the
+demographics of each neighborhood. I will use Baton Rouge crime data (6) to address any serious concerns about the location of the restaurant.</p>
 
-<p>I will use the foursquare api (6) to get a better understanding of the competition within each area by looking at the types of restaurants that
+<p>I will use the foursquare api (7) to get a better understanding of the competition within each area by looking at the types of restaurants that
 are available in each neighborhood.</p>
 
 <ol>
@@ -35,6 +35,7 @@ are available in each neighborhood.</p>
   <li> https://www.lacdb.com/commercial-real-estate/louisiana/baton%20rouge</li>
   <li> https://www.brla.gov/DocumentCenter/View/2270/Chapter-8---Zoning-Districts-PDF</li>
   <li> https://data.brla.gov/Housing-and-Development/Property-Information/re5c-hrw9</li>
+  <li> https://www.zillow.com</li>
   <li> https://www.brla.gov/203/Baton-Rouge-Police-Department</li>
   <li> https://foursquare.com/</li>
 </ol>
