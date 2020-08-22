@@ -7,7 +7,7 @@
 <p class="text-muted">**For those unfamiliar with Louisiana, a parish is akin to a county in other states.</p>
 <h3>Target Audience</h3>
 <p> Restaurants are a great investment, if planned properly. Unfortunately, almost half of all restaurants fail during the first year of opening. My target audience would be anyone who is looking to start in the restaurant business within Baton Rouge area. There are many factors to consider such as location, service style, and the actual food being sold. </p>
-</p>It is essential to understand the variety of restaurants in each neighborhood. Identifying a market gap within a specific neighborhood could lead to that restaurant being successful. Versus opening a restaurant in a neighborhood that doesn’t need your food and failing. </p>
+<p>It is essential to understand the variety of restaurants in each neighborhood. Identifying a market gap within a specific neighborhood could lead to that restaurant being successful. Versus opening a restaurant in a neighborhood that doesn’t need your food and failing. </p>
 <h3>Data</h3>
 <p>Restaurant location is a complex issue in order to answer this I will use Zillow <span><a href="https://www.zillow.com/baton-rouge-la/home-values/">(1)</a></span>, a popular house purchasing website, data to get housing information for demographics of each neighborhood.</p>
 <p>Additionally, I will use the foursquare API <span><a href="https://foursquare.com/">(2)</a></span> to get a better understanding of the competition within each area by looking at the types of restaurants that are available in each neighborhood to see which is common and which is popular.</p>
