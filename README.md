@@ -39,7 +39,23 @@
                     get a better understanding of the competition within each area by looking at the types of
                     restaurants that are available in each neighborhood to see which is common and which is popular.</p>
                 <p>Geolocation<a href="https://opendata.arcgis.com/datasets/7c5e82ef83834de2ad2478efc86744ae_0.geojson">(3)</a>
-                    data was utilized getting the neighborhood latitude and longitude coordinates for Baton Rouge.</p>
+                    data was utilized getting the neighborhood latitude and longitude coordinates for Baton Rouge. </p>
+                    
+<h3>Results</h3>
+<p>IThe most common restaurants in cluster 0 are primarily American Restaurants and burger joints. These are located in the Northern most neighborhoods and the southern half of Baton Rouge. This is located in the area where the average housing index is the highest at $218,431. Most common Restaurants in cluster 1 are "Food." This means that they are not typical restaurants. These are places that serve food, but aren't restaurants like a food bank. This is located in the area where the average housing index is the lowest at $77,200. The last cluster's most common restaurants Fast Food Take Out locations. This is located in the area where the average housing index is in the middle at $92,246.</p>
+<p>Addtionally I sorted and segmented the top most popular venues of each neighbor. There I found that within cluster 0 the most common restaurants in this cluster are Fast Food Take Out locations. This is located in the area where the average housing index is in the middle at $92,246. Within cluster 1 the most common restaurants are Fast Food Take Out locations. This is located in the area where the average housing index is in the middle at $92,246. Lastly within cluster 3 the most common restaurants are American Restaurants. This is located in the area where the average housing index is in the middle at $66,175. </p>
+
+<h3>Discussion</h3>
+<p>
+I used the python folium library to visualize geographic details of Baton Rouge and its neighborhoods. I utilized the Foursquare API to explore the restaurants in each neighborhood and segment them. I designed the limit as 50 venues. I used the section "food" and sorted by popularity. The radius is the maximum distance between the two geolocations converted to meters from each neighborhood based on their given latitude and longitude information. The radius is the maximum distance between the two geolocations converted to meters from each neighborhood based on their given latitude and longitude information. The search resulted in 1514 venues with 57 unique restaurant categories. Each of these results was run through a KMeans clustering algorithm. The best K was determined using the elbow method. 3 clusters was determined to be the best grouping.
+ </p>
+
+<h3>Conclusions</h3>
+<p>
+I think it's important to consider both the most common restaurants in each area and the most popular restaurants in each area. A potential restaurant opener would want to avoid opening in clusters where their restaurant is too common. They would also want to open in a location where their restaurant type is more popular. There is much more work that can be done to analyze this data further such as looking into which specific restaurants are popular or common in each neighborhood.
+</p>
+
+
 
 <ol>
                         <li><a href="https://opendata.arcgis.com/datasets/7c5e82ef83834de2ad2478efc86744ae_0.geojson">https://opendata.arcgis.com/datasets/7c5e82ef83834de2ad2478efc86744ae_0.geojson</a>
